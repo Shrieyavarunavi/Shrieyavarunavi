@@ -1,16 +1,36 @@
-## Hi there 👋
+# Hi, I'm Shrieya Varunavi 👋
 
-<!--
-**Shrieyavarunavi/Shrieyavarunavi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### First-Year B.E. Computer Science and Engineering Student
 
-Here are some ideas to get you started:
+I'm an aspiring software developer interested in technology, innovation, and problem-solving.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Currently building my programming foundation, exploring different areas of computer science, and looking forward to learning through hands-on projects, hackathons, and collaboration.
+
+### Technologies & Skills
+
+* **Languages:** C, C++
+* **Currently Exploring:** Python, Data Structures and Algorithms
+* **Interests:** Software Development, Emerging Technologies, Problem Solving
+
+### Currently Working On
+
+* Strengthening programming fundamentals
+* Improving logical thinking and problem-solving
+* Exploring development tools and technologies
+* Building beginner-friendly projects
+
+### Goals
+
+* Participate in hackathons and technical events
+* Build practical projects
+* Collaborate with other developers
+* Continuously develop my technical skills
+
+### Connect With Me
+
+* LinkedIn: www.linkedin.com/in/shrieyavarunavie
+* Email: shrieyavarunavie@gmail.com
+
+---
+
+*Learning by building*
